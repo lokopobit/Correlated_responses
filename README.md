@@ -1,4 +1,5 @@
-# INTRODUCTION
-Although the description of the repository is about generaion of correlated variables this is part of a simulation study that I did in the past. The simulation study was intended to check wether generalized estimating ecuations (GEE) is better that generalized linear models (GLM) when data is longitudinal. For this purpose I performed a simulation study in which I generated longitudinal response data, that is, correlated intra-subject, and then fitted the model under study.  
+# Details
+Although the description of the repository is about generation of correlated variables this is part of a simulation study that I did in the past. The simulation study was intended to check wether generalized estimating ecuations (GEE) is better that generalized linear models (GLM) when data is longitudinal. For this purpose I performed a simulation study in which I generated longitudinal response data, that is, correlated intra-subject, and then fitted the model under study.  
 Given that the hard task of the simulation was to implement the algorithms of data generation I titled the repository that way.  
-A complete explanation of the simulation along with the obtained results and the explored papers can be found in the sumulation_study.pdf file.
+A complete explanation of the simulation along with the obtained results and the explored papers can be found in the sumulation_study.pdf file.    
+Note: the language of the study is spanish.
