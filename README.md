@@ -20,3 +20,9 @@ A complete explanation of the simulation along with the obtained results and the
 
 
 **Note**: the language of the study is spanish.
+
+
+requirementelibrary(dplyr)
+library(geepack)
+library(readr)
+library(igraph)
