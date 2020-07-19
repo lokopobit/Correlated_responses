@@ -18,11 +18,13 @@ Simul., 61, 127-139.
 
 A complete explanation of the simulation along with the obtained results and the explored papers can be found in the sumulation_study.pdf file.    
 
+The requried packages are the next ones (4):  
+
+- dplyr
+- gepack
+- readr
+- igraph
 
 **Note**: the language of the study is spanish.
 
 
-requirementelibrary(dplyr)
-library(geepack)
-library(readr)
-library(igraph)
